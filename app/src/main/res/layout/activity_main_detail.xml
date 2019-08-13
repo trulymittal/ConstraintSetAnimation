@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
         android:layout_marginTop="128dp"
-        android:text="Visit"
+        android:text="Visit now"
         android:fontFamily="serif-monospace"
 
         app:layout_constraintStart_toStartOf="parent"
